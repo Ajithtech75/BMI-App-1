@@ -5,7 +5,7 @@
 
 ## :sunglasses:  Overview: :point_down:
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-NZyGhrIkANGEC_fIMmfmFvpCCcRAOR5qGg&usqp=CAU" height="200px"/> <br>
+<img src="https://cdn2.iconfinder.com/data/icons/fitness-8/512/fitness-color-16-128.png" height="200px"/> <br>
 
 A Simple Flutter App for Calculating BMI.
 
